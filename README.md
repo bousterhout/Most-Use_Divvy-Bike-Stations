@@ -1,5 +1,5 @@
 # Most Used Divvy Bike Stations
-This file are for a demonstration of quantile regression as a statistical approach using dummy data as well as an analysis of what predicts the most and least used Divvy bike docking stations in 2016.
+These files are for a demonstration of quantile regression as a statistical approach using dummy data as well as an analysis of what predicts the most and least used Divvy bike docking stations in 2016.
 
 Data sources:
 
